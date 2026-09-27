@@ -1,0 +1,3 @@
+Capacitor CLI se instala como dependencia transitiva al ejecutar los comandos npx cap.
+Si el comando "npx cap" no se encuentra, instalar explícitamente:
+npm install @capacitor/cli --save-dev
